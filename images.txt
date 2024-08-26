@@ -1,1 +1,2 @@
- sqlsec/upload-labs-docker
+sqlsec/upload-labs-docker
+minio/https://github.com/vulhub/vulhub.git
