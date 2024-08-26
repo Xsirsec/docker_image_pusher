@@ -1,2 +1,2 @@
-sqlsec/upload-labs-docker
-minio/https://github.com/vulhub/vulhub.git
+vulhub/minio:2023-02-27T18-10-45Z
+
